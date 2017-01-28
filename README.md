@@ -10,10 +10,9 @@
 
 [Работа](#Работа) | [Стажировка](#Стажировка)
 ---
-***
 ## Работа
 
-### <img src="https://www.tinkoffinsurance.ru/news/~/media/F5F8258E89A84D82AF6904C6EDF22041.ashx?20161031T1234485907" style="max-width:48px"> **Тинькофф банк**
+### <img src="https://www.tinkoff.ru/favicon.ico" style="max-width:48px"> Тинькофф банк
 
 #### Верстальщик
   1. Soft-skills
