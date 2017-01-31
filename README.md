@@ -54,7 +54,7 @@
 
 Режим работы по договоренности. Город Казань.
 
-[Я хочу пройти здесь стажировку!](http://kpfu.ru/sveden/internet-priemnaya)
+[Я хочу пройти здесь стажировку!](mailto:SVMochalov@kpfu.ru)
 
 ### [<img src="logo/t.jpg"> T-systems](http://www.t-systems.ru/)
 
